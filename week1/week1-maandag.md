@@ -207,9 +207,6 @@ moeten altijd helpen voor stome dingen en wij verliezen tijd van dat, ik voel mi
 - Ik heb met de help van soulaimane, de verlag verbeterd
  
 
-
-
-
 ## 2) Wat heb ik nieuw geleerd of voor het eerst zelf gedaan?
 
 - Vandaag was ik voor het eerst allen in de figma en heb ook allen de feedback aangepast
@@ -217,6 +214,30 @@ moeten altijd helpen voor stome dingen en wij verliezen tijd van dat, ik voel mi
 
 ## 3) Wat is mijn gevoel over vandaag?
 - Vandaag was een lange dag, niks is er gebeurt het was een lange dag waar ik meestal allen heb gewerkt
+- normal:😐
+- blij:😊
+
+---
+`[24/01/2025]`  
+`[Rina]`  
+`[Chill]`
+
+
+## 1) Wat heb ik vandaag gedaan voor mijn project?
+
+- Ik heb Hamza geholpen met het prototype in figma
+- Ik heb mijn tekst gemaakt voor de presentatie
+- Wij hebben feedback gekregen
+- Ik heb de presentatie met mijn groep gedaan
+ 
+
+## 2) Wat heb ik nieuw geleerd of voor het eerst zelf gedaan?
+
+- Vandaag heb ik mijn tekst voor de presentatie zelf gedaan
+
+
+## 3) Wat is mijn gevoel over vandaag?
+- Het was een normale dag, niks special ik gebeurt
 - normal:😐
 - blij:😊
 *Kopieer dit sjabloon voor je volgende dagen en pas de antwoorden telkens aan!*
