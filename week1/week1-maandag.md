@@ -12,20 +12,15 @@
 - Met de hele team, hebben wij in aula 1 een brainstorming gehaad over de nieuwe functies voor sorrybox
 - Ik heb met soulaimane de functies geschetst
 
-
-
 ## 2) Wat heb ik nieuw geleerd of voor het eerst zelf gedaan?
 
 - Ik heb geleerd om te durfen praten wanneer ik een idee heb, en ook durfen aan mijn teamgenoten mijn echte mening zeggen als ik iets niet goed wind.
-
-
 
 ## 3) Wat is mijn gevoel over vandaag?
 
 - Ik voel mij goed voor vandaag, maar ook een beeijte overwhelmd
 - Blij:😊
 - Overwhelmd:😰
-
 
 **Datum:** `[15/01/2025]`  
 **Studentnaam:** `[Rina]`  
@@ -38,15 +33,13 @@
 - Ik heb tekst van de website korter en meer user friendly gemaakt voor de website
 - Ik heb 4 nieuwe paginaas aan gemaakt in de wireframe
 - Ik heb Hamza geholpen met de pagina van origami en stickers
-- Met de hele team, hebben wij voor 1 moodboard, gekozen 
+- Met de hele team, hebben wij voor 1 moodboard, gekozen
 - Ik heb een stijlgids gemaakt
 - Ik heb met Soulaimane in de figma de design begonen
-
 
 ## 2) Wat heb ik nieuw geleerd of voor het eerst zelf gedaan?
 
 - Mijn moodboard verd gekozen, dus voor het eerst moest ik aan mijn team leden zeggen hoe ik de website zie en hoe zij dat moeten aanpasen
-
 
 ## 3) Wat is mijn gevoel over vandaag?
 
@@ -67,11 +60,9 @@
 - Ik heb een user testing in figma gedaan en dan die problemen opgelost
 - Ik ben begonen met het coderen van het pagina van de orimagi
 
-
 ## 2) Wat heb ik nieuw geleerd of voor het eerst zelf gedaan?
 
 - Vandaag heb ik voor het eerst allen een user testing gedaan, en dan de oplisingen voor die problemen zelf gevonden in een groep
-
 
 ## 3) Wat is mijn gevoel over vandaag?
 
@@ -80,10 +71,10 @@
 - Bang:🙁
 
 ---
+
 `[17/01/2025]`  
 `[Rina]`  
 `[Chill]`
-
 
 ## 1) Wat heb ik vandaag gedaan voor mijn project?
 
@@ -92,24 +83,22 @@
 - Ik heb met mijn groep de presentatie gedaan
 - Ik heb de pagina's van de origami, gecodert
 
-
 ## 2) Wat heb ik nieuw geleerd of voor het eerst zelf gedaan?
 
 - Vandaag heb de code helemaal allen gedaan, zonder help aan mijn team te vragen
 
-
 ## 3) Wat is mijn gevoel over vandaag?
 
 - Vandaag ben ik heel trost op mijn team, omdat wij hard hebben gewerkt en wij hebben goede feedback gekregen.
-Ik ben ook trots opmijzelf dat ik de code heb geeindigt en allen gedaan.
+  Ik ben ook trots opmijzelf dat ik de code heb geeindigt en allen gedaan.
 - Trots:😌
 - Blij:😁
 
 ---
+
 `[20/01/2025]`  
 `[Rina]`  
 `[Chill]`
-
 
 ## 1) Wat heb ik vandaag gedaan voor mijn project?
 
@@ -120,25 +109,22 @@ Ik ben ook trots opmijzelf dat ik de code heb geeindigt en allen gedaan.
 - Ik heb de pagina van 4methoden in mobile versie design gedaan
 - Ik heb de pagina van chatbot in mobile versie design gedaan
 
-
-
 ## 2) Wat heb ik nieuw geleerd of voor het eerst zelf gedaan?
 
 - Vandaag heb ik niks nieuw geleerd, maar ik heb de design van de chatbot allen gedaan
 
-
 ## 3) Wat is mijn gevoel over vandaag?
 
-- S'morgens was er veel tention in de groep dus ik was een beeitje in stress want idereen was aan het argue, 
-maar in het einde van de dag idereen was zo moe dat wij lachen op alles samen  
+- S'morgens was er veel tention in de groep dus ik was een beeitje in stress want idereen was aan het argue,
+  maar in het einde van de dag idereen was zo moe dat wij lachen op alles samen
 - Stress:😖
 - Grappig:🤣
 
 ---
+
 `[21/01/2025]`  
 `[Rina]`  
 `[Chill]`
-
 
 ## 1) Wat heb ik vandaag gedaan voor mijn project?
 
@@ -149,26 +135,24 @@ maar in het einde van de dag idereen was zo moe dat wij lachen op alles samen
 - Ik heb een verslaag gemaakt voor de usertesting
 - Ik heb de pagina van "Vise en missie", in figma aangepast
 
-
-
 ## 2) Wat heb ik nieuw geleerd of voor het eerst zelf gedaan?
 
 - Vandaag heb ik niks nieuw geleerd, ik heb allen de design in de figma (de pagginas die ik moest doen)
-allen aangepast
-
+  allen aangepast
 
 ## 3) Wat is mijn gevoel over vandaag?
-- Ik voel dat wij niet avanceren omdat wij krijgen altijd meer en meer feedback, ook als ik weet 
-dat de feedback goed is om ons te helpen, toch dat doet mijn humour naar beneden want ik voel wij zijn altijd
-bezig met dezelefde dinges en dat maak mij moe
+
+- Ik voel dat wij niet avanceren omdat wij krijgen altijd meer en meer feedback, ook als ik weet
+  dat de feedback goed is om ons te helpen, toch dat doet mijn humour naar beneden want ik voel wij zijn altijd
+  bezig met dezelefde dinges en dat maak mij moe
 - Stress:😖
 - Moe:😓
 
 ---
+
 `[22/01/2025]`  
 `[Rina]`  
 `[Chill]`
-
 
 ## 1) Wat heb ik vandaag gedaan voor mijn project?
 
@@ -178,26 +162,23 @@ bezig met dezelefde dinges en dat maak mij moe
 - Ik heb nieuwe stickers opgezocht
 - Ik heb de stickers in pixel gezet
 
-
-
-
 ## 2) Wat heb ik nieuw geleerd of voor het eerst zelf gedaan?
 
 - Vandaag heb ik geleerd doe liedjes aan buttons aankopelen en dan die zelf liedjes in code ingezet
 
-
 ## 3) Wat is mijn gevoel over vandaag?
+
 - Vandaag had ik veel emoties, s'morgens was ik trots op mij want het is mijj gelukt met de liedjes te zetten,
-darna heb ik de paginas van de origami gecodert, maar wij hebben alijd mergeconflict en ik voel dat mijn teamleden
-moeten altijd helpen voor stome dingen en wij verliezen tijd van dat, ik voel mij slecht erover
+  darna heb ik de paginas van de origami gecodert, maar wij hebben alijd mergeconflict en ik voel dat mijn teamleden
+  moeten altijd helpen voor stome dingen en wij verliezen tijd van dat, ik voel mij slecht erover
 - Trots:😌
 - Guilty:😥
 
 ---
+
 `[23/01/2025]`  
 `[Rina]`  
 `[Chill]`
-
 
 ## 1) Wat heb ik vandaag gedaan voor mijn project?
 
@@ -205,39 +186,38 @@ moeten altijd helpen voor stome dingen en wij verliezen tijd van dat, ik voel mi
 - Ik heb de feedback van de usertesting op figma aangepast
 - Ik heb snel Rayan en Hamza geholpen met videos op youtube te zetten en dan in code
 - Ik heb met de help van soulaimane, de verlag verbeterd
- 
 
 ## 2) Wat heb ik nieuw geleerd of voor het eerst zelf gedaan?
 
 - Vandaag was ik voor het eerst allen in de figma en heb ook allen de feedback aangepast
 
-
 ## 3) Wat is mijn gevoel over vandaag?
+
 - Vandaag was een lange dag, niks is er gebeurt het was een lange dag waar ik meestal allen heb gewerkt
 - normal:😐
 - blij:😊
 
 ---
-`[24/01/2025]`  
+
+`[27/01/2025]`  
 `[Rina]`  
 `[Chill]`
 
-
 ## 1) Wat heb ik vandaag gedaan voor mijn project?
 
-- Ik heb Hamza geholpen met het prototype in figma
-- Ik heb mijn tekst gemaakt voor de presentatie
-- Wij hebben feedback gekregen
-- Ik heb de presentatie met mijn groep gedaan
- 
+- Ik heb de pagina van "wie zijn wij" gecodert
+- Ik heb de pagina van "wie zijn wij" in responsive gezet
+- Ik heb de pagina van "werkwijze" gecodert
+- Ik heb de pagina van "werkwijze" in responsive gezet
 
 ## 2) Wat heb ik nieuw geleerd of voor het eerst zelf gedaan?
 
-- Vandaag heb ik mijn tekst voor de presentatie zelf gedaan
-
+- Vandaag heb ik 2 paginas allen gecodert
 
 ## 3) Wat is mijn gevoel over vandaag?
-- Het was een normale dag, niks special ik gebeurt
-- normal:😐
+
+- Het was een leuke dag met veel energie soms, maar ook ik was triestig wanneer ik zie mijn groep in stress
+- stress:😖
 - blij:😊
-*Kopieer dit sjabloon voor je volgende dagen en pas de antwoorden telkens aan!*
+
+_Kopieer dit sjabloon voor je volgende dagen en pas de antwoorden telkens aan!_
